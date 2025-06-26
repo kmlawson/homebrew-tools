@@ -7,7 +7,7 @@ class Ordb < Formula
   sha256 "175136300f286ba9badc9807046b057fb9f91d9b4ab2356e90c6857dd4c2efd9"
   license "MIT"
 
-  depends_on "python@3.13"
+  depends_on "python@3.12"
 
   def install
     virtualenv_install_with_resources
