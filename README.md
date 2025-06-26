@@ -18,7 +18,7 @@ Fast, feature-rich command-line tool for searching the comprehensive Norwegian b
 **Installation:**
 ```bash
 brew tap kmlawson/tools
-brew install ordb
+brew install kmlawson/tools/ordb
 ```
 
 **Usage:**
